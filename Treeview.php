@@ -5,7 +5,7 @@ namespace meysampg\treeview;
 use yii\bootstrap\Nav as BootstrapNav;
 use yii\helpers\Html;
 use yii\helpers\ArrayHelper;
-use app\components\Treemenu;
+use meysampg\treeview\Treemenu;
 
 class Treeview extends BootstrapNav
 {
