@@ -1,5 +1,7 @@
 Yii2 Treeview
 =============
+🟥⚠️ _THIS PACKAGE IS ABANDONED. PLEASE SELECT ANOTHER PACKAGE OR FORK THIS REPOSITRY AND INFORM ME ON p.g.meysam [at] gmail [dot] com TO REFFER TO YOUR PACKAGE IN PACKAGIST_ ⚠️🟥
+
 A Bootstrap Treeview Generator for AdminLte Sidebar
 
 Description
